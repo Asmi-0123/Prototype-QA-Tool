@@ -1,0 +1,9 @@
+streamlit>=1.18,<2.0
+pandas>=1.5,<3.0
+numpy>=1.23,<2.0
+scikit-learn>=1.2,<2.0
+sentence-transformers>=2.2.2,<3.0
+torch>=2.0.0,<3.0
+spacy>=3.5,<4.0
+python-docx>=0.8.11
+tqdm
