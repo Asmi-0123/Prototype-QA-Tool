@@ -1,9 +1,18 @@
-streamlit>=1.18,<2.0
-pandas>=1.5,<3.0
-numpy>=1.23,<2.0
-scikit-learn>=1.2,<2.0
-sentence-transformers>=2.2.2,<3.0
-torch>=2.0.0,<3.0
-spacy>=3.5,<4.0
-python-docx>=0.8.11
-tqdm
+# Web framework
+streamlit==1.18.1
+
+# Data processing
+pandas==2.3.2
+numpy==1.26.4
+scikit-learn==1.7.1
+
+# NLP / embeddings
+sentence-transformers==2.7.0
+torch==2.8.0
+spacy==3.8.2
+
+# Document processing
+python-docx==1.2.0
+
+# Progress bars
+tqdm==4.67.0
